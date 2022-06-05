@@ -1,7 +1,6 @@
 # Table of contents
 
-* [欢迎加入PigeonClub大家庭！](README.md)
-
-## 通过加入申请后的第一件事 <a href="#after-story" id="after-story"></a>
-
-* [填写成员信息收集表](after-story/tian-xie-cheng-yuan-xin-xi-shou-ji-biao.md)
+* [PigeonClub - 鸽社主页](README.md)
+* [加入](join/README.md)
+  * [角色与岗位](join/role.md)
+* [作品](zuo-pin.md)
