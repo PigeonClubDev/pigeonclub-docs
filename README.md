@@ -1,7 +1,7 @@
 ---
 description: 这儿是你了解PigeonClub的第一站
-cover: https://assets.cnklp.cn/upload/Creeper_Res/img/Olostland%20v1.jpg
-coverY: -54.30021754894851
+cover: .gitbook/assets/Olostland v1.1.jpg
+coverY: 0
 ---
 
 # PigeonClub - 鸽社主页
